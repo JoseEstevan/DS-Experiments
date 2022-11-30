@@ -13,15 +13,15 @@
 
 ## Installation <a name="installation"></a>
 
-All necesary libraries are indicated at the beggining of the [notebook]().  The code should run with no issues using Python versions 3.*.
+All necesary libraries are indicated at the beggining of the [notebook](https://mybinder.org/v2/gh/JoseEstevan/DS-Experiments/42811bf5909f85e8a5b902d1508df616b0d46f79).  The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
 
-As part of the [Udacity Data Scientist Nanodegree](https://www.coursera.org/account/accomplishments/specialization/certificate/QWDCRB9GLLYL), i needed to develop a project following this [steps]().
+As part of the [Udacity Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025), I needed to develop a project following these [steps](https://github.com/JoseEstevan/DS-Experiments/blob/main/Amsterdam's%20Airbnb%20tale%2C%20complete%20with%20clickable%20maps/Steps.md).
 
 ## File Descriptions <a name="files"></a>
 
-I published a [post in my Medium](), a more detailed report can be found on the notebook [here](https://mybinder.org/v2/gh/JoseEstevan/DS-Experiments/42811bf5909f85e8a5b902d1508df616b0d46f79). 
+I published a [post in my Medium](https://joseestevan.medium.com/amsterdams-airbnb-tale-complete-with-clickable-maps-17d858cc8003), a more detailed report can be found on the notebook [here](https://mybinder.org/v2/gh/JoseEstevan/DS-Experiments/42811bf5909f85e8a5b902d1508df616b0d46f79). 
 
 ## Results<a name="results"></a>
 
@@ -31,4 +31,4 @@ Although it does not provide a step-by-step guide to finding the ideal location,
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Acknowledgements [Erik Bruin](https://www.kaggle.com/datasets/erikbruin/airbnb-amsterdam)'s for creating the dataset i used. Feel free to use the code here as you would like! 
+Acknowledgements [Erik Bruin](https://www.kaggle.com/datasets/erikbruin/airbnb-amsterdam)'s for creating the dataset I used. Feel free to use the code here as you would like! 
