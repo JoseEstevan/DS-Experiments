@@ -17,8 +17,8 @@ All necesary libraries are indicated at the beginning of each notebook, feel fre
 
 ## Instructions <a name="instructions"></a>
 
-1. Run the following command in the project's root directory (*src/app*) to set up your database and model.
-     `python run.py`
+1. Run the following command in the project's root directory (*src/app*) to run your web app.
+     - `python run.py`
 
 2. Go to http://10.5.0.2:3001
 
