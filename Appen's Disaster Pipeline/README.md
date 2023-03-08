@@ -15,6 +15,13 @@
 
 All necesary libraries are indicated at the beginning of each notebook, feel free to explore the project. The code should run with no issues using Python versions 3.*.
 
+## Instructions <a name="instructions"></a>
+
+1. Run the following command in the project's root directory (*src/app*) to set up your database and model.
+     `python run.py`
+
+2. Go to http://10.5.0.2:3001
+
 ## Project Motivation<a name="motivation"></a>
 
 As part of the [Udacity Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025), I needed to develop a project following these [steps](https://github.com/JoseEstevan/DS-Experiments/blob/main/Appen's%20Disaster%20Pipeline/Steps.md).
