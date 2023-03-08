@@ -17,7 +17,7 @@ All necesary libraries are indicated at the beginning of each notebook, feel fre
 
 ## Project Motivation<a name="motivation"></a>
 
-As part of the [Udacity Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025), I needed to develop a project following these [steps]().
+As part of the [Udacity Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025), I needed to develop a project following these [steps](https://github.com/JoseEstevan/DS-Experiments/blob/main/Appen's%20Disaster%20Pipeline/Steps.md).
 
 ## File Descriptions <a name="files"></a>
 
@@ -32,4 +32,4 @@ The goal of my project was to create a web app where emergency personnel may ent
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Acknowledgements [Rebecca Bilbro](https://rebeccabilbro.github.io/module-main-has-no-attribute/)'s for writing a blog post that helped me a lot. Feel free to use the code here as you would like! 
+Acknowledgements to [Rebecca Bilbro](https://rebeccabilbro.github.io/module-main-has-no-attribute/)'s for writing a blog post that helped me a lot. Feel free to use the code here as you would like! 
