@@ -17,10 +17,17 @@ All necesary libraries are indicated at the beginning of each notebook, feel fre
 
 ## Instructions <a name="instructions"></a>
 
-1. Run the following command in the project's root directory (*src/app*) to run your web app.
+1. Run the following commands in the project's root directory to set up the database and model.
+
+    - ETL pipeline that cleans data and stores in database
+        `python src/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db`
+    - ML pipeline that trains classifier and saves
+        `python src/train_classifier.py src/DisasterResponse.db src/classifier.pkl`
+
+2. Run the following command in the project's app directory (*src/app*) to run your web app.
      - `python run.py`
 
-2. Go to http://10.5.0.2:3001
+3. Go to http://10.5.0.2:3001
 
 ## Project Motivation<a name="motivation"></a>
 
