@@ -1,6 +1,6 @@
 # Starbucks Capstone Project
 
-**The link to the Blog post is [here]()**
+**The link to the Blog post is [here](https://github.com/JoseEstevan/DS-Experiments/blob/main/Starbucks_Capstone/Starbucks_Capstone_notebook.html)**
 ### Table of Contents
 
 1. [Overview](#installation)
